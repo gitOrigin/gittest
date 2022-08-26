@@ -9,3 +9,7 @@ function fn2() {
 function dev5() {
     console.log('dev5');
 }
+
+function dev6() {
+    console.log('dev6');
+}
