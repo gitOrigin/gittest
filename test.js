@@ -5,3 +5,5 @@ function fn1() {
 function fn2() {
     console.log('f2');
 }
+
+function mine(){}
