@@ -7,3 +7,5 @@ function fn2() {
 }
 
 function mine(){}
+
+function twogit(){}
